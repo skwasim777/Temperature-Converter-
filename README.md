@@ -20,7 +20,6 @@ The styling of the web page is defined in the style.css file, providing a visual
 ## Styling
 The web page has a simple and clean design with a background gradient. The temperature input fields have a monospace font, and the placeholder text is styled to provide a clear indication of the expected input.
 
-
 ## Screenshots
 ![App Screenshot 1](Screenshot%20(192).png)
 
